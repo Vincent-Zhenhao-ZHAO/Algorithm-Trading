@@ -3,7 +3,8 @@
 ## Overview
 This repository contains a detailed analysis of two Exchange-Traded Funds (ETFs): SPDR S&P 500 ETF Trust (SPY) and Vanguard Information Technology ETF (VGT). Leveraging the Alpha Vantage API, it offers insights into financial time series analysis, encompassing moving averages, return calculations, auto-correlation, Gaussianity and stationarity tests, cointegration analysis, and trading strategy development.
 
-## Score obtained: 71 - Good work and sufficient answers on the whole. It is nice to provide the regimes of the time series with the plots as a motivation.
+## Score obtained: 71 
+Feedback: Good work and sufficient answers on the whole. It is nice to provide the regimes of the time series with the plots as a motivation.
 
 ## Key Features
 - **Data Acquisition**: Scripts to download time series data for SPY and VGT ETFs using the Alpha Vantage API.
